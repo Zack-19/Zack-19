@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, you can call me Zack</h1>
 <h5 align="center">Who wins will be the one who dreams to dare And with the passion, grace, and flair To have the savoir-faire</h5>
 
+---
+
 - 🔭 I’m currently working on **a football project**
 
 - 🌱 I’m currently learning **ML**
